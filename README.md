@@ -1,8 +1,10 @@
 # joy2key
+
 joy2key for rg351v's dos games 
+git clone https://github.com/guangmingwan/joy2key-RG351V
 make
 make upload
-then modify 
+then modify /emuelec/scripts/emuelecRunEmu.sh
 ===
 . /etc/profile
 #add tow line
