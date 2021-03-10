@@ -9,3 +9,4 @@ then modify
 killall joy2key
 /storage/joy2key
 ===
+now,you can play dos game use joystick
